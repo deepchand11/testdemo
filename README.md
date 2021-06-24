@@ -7,3 +7,7 @@
 ## test commit 3
 
 - this is a commit 1
+
+- this is a commit 2
+
+- this is a commit 3
