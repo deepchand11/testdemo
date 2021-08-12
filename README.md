@@ -13,3 +13,5 @@
 - this is a commit 3
 
 ## Small change in the code
+
+## Git flow release activities
